@@ -225,7 +225,7 @@ Evidencia 1. Montaje del ESP32 y control inalámbrico del LED.
 <img width="1026" height="441" alt="image" src="https://github.com/user-attachments/assets/c9be1724-d053-42b9-abff-c20f69157884" />
 
 
-Fotografía del ESP32 conectado a la protoboard y al computador, junto con el teléfono celular mostrando la interfaz de control de LED por Wi-Fi (versión base del programa, con el LED encendido). No corresponde a la versión final con los tres retos.
+Fotografía del ESP32 conectado a la protoboard y al computador, junto con el teléfono celular mostrando la interfaz de control de LED por Wi-Fi (versión base del programa). No corresponde a la versión final con los tres retos.
 
 14. Conclusión
 
