@@ -1,0 +1,8 @@
+const char* NOMBRE_RED = "ESP32_LED_G01";
+const char* CLAVE_RED = "Mecatronica2026";
+
+const int PIN_LED = 18;
+
+<title>Control LED - Grupo 01</title>
+<h1>Control de LED por Wi-Fi</h1>
+<h2>Grupo 01</h2>
