@@ -4,8 +4,8 @@ CORPORACIÓN UNIVERSITARIA AMERICANA
 Asignatura: Fundamentos de Mecatrónica
 
 Estudiantes:
-Angel Martinez
-Andres Bruges
+Angel Martinez,
+Andres Bruges,
 Jesus Aguilar
 
 1. Introducción
