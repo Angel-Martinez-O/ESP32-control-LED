@@ -1,9 +1,9 @@
 Práctica de laboratorio: Control inalámbrico de un LED con ESP32
 
 CORPORACIÓN UNIVERSITARIA AMERICANA  
-Asignatura:** Fundamentos de Mecatrónica
+Asignatura: Fundamentos de Mecatrónica
 
-**Estudiantes:** Angel Martinez, Andres Bruges, Jesus Aguilar
+Estudiantes: Angel Martinez, Andres Bruges, Jesus Aguilar
 
 1. Introducción
 
