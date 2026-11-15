@@ -220,7 +220,7 @@ Código bloqueante: detiene la ejecución de otras tareas mientras espera, como 
 
 13. Evidencia fotográfica
 
-Evidencia 1. Montaje del ESP32 y control inalámbrico del LED.
+Evidencia.
 
 <img width="1026" height="441" alt="image" src="https://github.com/user-attachments/assets/c9be1724-d053-42b9-abff-c20f69157884" />
 
