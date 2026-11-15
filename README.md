@@ -130,11 +130,11 @@ Las pruebas T1 a T3 las realizamos con la versión base del programa. Las prueba
 
  12. Explicación de los conceptos del reto 3
 
-¿Para qué sirve millis()?**
+¿Para qué sirve millis()?
 
 Permite conocer el tiempo transcurrido desde que se inició el ESP32, sin detener el funcionamiento del programa.
 
-¿Qué es una marca temporal?**
+¿Qué es una marca temporal?
 
 Es el valor del tiempo que guardamos cuando ocurre un evento; en este caso, cuando se enciende el LED. Restando esa marca al valor actual de millis() sabemos cuánto tiempo ha pasado.
 
