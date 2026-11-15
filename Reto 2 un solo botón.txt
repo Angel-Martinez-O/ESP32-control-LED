@@ -1,0 +1,14 @@
+void alternarLED() {
+
+  ledEncendido = !ledEncendido;
+
+  if (ledEncendido) {
+    digitalWrite(PIN_LED, HIGH);
+    tiempoEncendido = millis();
+  } else {
+    digitalWrite(PIN_LED, LOW);
+  }
+
+  servidor.sendHeader("Location", "/");
+  servidor.send(303, "text/plain", "");
+}
