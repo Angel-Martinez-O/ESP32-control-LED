@@ -1,0 +1,20 @@
+unsigned long tiempoEncendido = 0;
+
+void verificarTiempo() {
+
+  if (ledEncendido &&
+      millis() - tiempoEncendido >= 10000UL) {
+
+    digitalWrite(PIN_LED, LOW);
+    ledEncendido = false;
+
+    Serial.println("LED apagado automaticamente");
+  }
+}
+
+void loop() {
+
+  servidor.handleClient();
+
+  verificarTiempo();
+}
