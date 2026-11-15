@@ -55,7 +55,7 @@ Cuando presionamos el botón de la página, el navegador envía una solicitud HT
 
 Flujo de control: celular → Wi-Fi creada por el ESP32 → solicitud HTTP → función C++ → GPIO18 → resistencia → LED → GND.
 
-## 7. Conceptos aprendidos
+7. Conceptos aprendidos
 
 - ESP32: microcontrolador que nos permite controlar componentes electrónicos y conectarnos a redes Wi-Fi.
 - Wi-Fi: tecnología que permite la comunicación inalámbrica entre dispositivos.
@@ -64,11 +64,11 @@ Flujo de control: celular → Wi-Fi creada por el ESP32 → solicitud HTTP → f
 - Servidor web: programa que muestra una página desde la cual podemos enviar instrucciones al ESP32.
 - HTTP: protocolo utilizado para enviar solicitudes entre el navegador y el servidor.
 
-## 8. Respuestas a las preguntas de la guía
+8. Respuestas a las preguntas de la guía
 
 ¿Por qué funciona sin internet?
 
-Porque el ESP32 crea su propia red Wi-Fi y el teléfono se conecta directamente a ella. La comunicación se realiza dentro de la red local (IP 192.168.4.1), sin router ni proveedor de internet.
+Porque el ESP32 crea su propia red Wi-Fi y el teléfono se conecta directamente a ella. La comunicación se realiza dentro de la red local, sin router ni proveedor de internet.
 
 ¿Qué hace la función handleClient()?
 
